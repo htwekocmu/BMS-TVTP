@@ -1,1 +1,2 @@
 # BMS-TVTP
+The data and R codes provided are to support the replication of the empirical results in Geopolitics of Oil Price Returns using a Bayesian Markov Switching Model with Time-Varying Transition Probabilities. The repository includes the dataset and R scripts used for data processing, model estimation, and empirical analysis. The R codes are highlighted to facilitate transparency and reproducibility.
